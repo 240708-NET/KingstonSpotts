@@ -1,0 +1,15 @@
+C:\Users\guita\My project\KingstonSpotts\Tictactoe\bin\Debug\net8.0\Tictactoe.exe
+C:\Users\guita\My project\KingstonSpotts\Tictactoe\bin\Debug\net8.0\Tictactoe.deps.json
+C:\Users\guita\My project\KingstonSpotts\Tictactoe\bin\Debug\net8.0\Tictactoe.runtimeconfig.json
+C:\Users\guita\My project\KingstonSpotts\Tictactoe\bin\Debug\net8.0\Tictactoe.dll
+C:\Users\guita\My project\KingstonSpotts\Tictactoe\bin\Debug\net8.0\Tictactoe.pdb
+C:\Users\guita\My project\KingstonSpotts\Tictactoe\obj\Debug\net8.0\Tictactoe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guita\My project\KingstonSpotts\Tictactoe\obj\Debug\net8.0\Tictactoe.AssemblyInfoInputs.cache
+C:\Users\guita\My project\KingstonSpotts\Tictactoe\obj\Debug\net8.0\Tictactoe.AssemblyInfo.cs
+C:\Users\guita\My project\KingstonSpotts\Tictactoe\obj\Debug\net8.0\Tictactoe.csproj.CoreCompileInputs.cache
+C:\Users\guita\My project\KingstonSpotts\Tictactoe\obj\Debug\net8.0\Tictactoe.sourcelink.json
+C:\Users\guita\My project\KingstonSpotts\Tictactoe\obj\Debug\net8.0\Tictactoe.dll
+C:\Users\guita\My project\KingstonSpotts\Tictactoe\obj\Debug\net8.0\refint\Tictactoe.dll
+C:\Users\guita\My project\KingstonSpotts\Tictactoe\obj\Debug\net8.0\Tictactoe.pdb
+C:\Users\guita\My project\KingstonSpotts\Tictactoe\obj\Debug\net8.0\Tictactoe.genruntimeconfig.cache
+C:\Users\guita\My project\KingstonSpotts\Tictactoe\obj\Debug\net8.0\ref\Tictactoe.dll
